@@ -23,4 +23,9 @@ this file makes use of continuous Integration, which is the practice of merging 
 rather than merging in a large change at the end of a development cycle. The goal is to build healthier software by
 developing and testing in smaller increments. This is where Travis CI comes in.
 
+**CHANGELOG.MD:**
+All notable changes to this project are documented in this file,such as bug fixes, new features, etc.
+
+
+                                                                
 
