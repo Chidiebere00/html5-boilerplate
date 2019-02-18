@@ -1,74 +1,50 @@
-**I'm submitting a ...**
-<!-- (check one with "x") -->
-- [ ] bug report
-- [ ] feature request
-- [ ] other (Please do not submit support requests here (below))
 
-## Notes:
+**Time line of the Internet**
 
-* Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](https://stackoverflow.com/questions/tagged/html5boilerplate)).
+-1900s- Nikola Tesla proposes an idea of a "world wireless system"
 
-* Please **do not** derail or troll issues. Keep the discussion on topic and
-  respect the opinions of others.
+1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
 
-* Please **do not** open issues or pull requests regarding the code in
-  [`.htaccess`](https://github.com/h5bp/server-configs-apache),
-  [`jQuery`](https://github.com/jquery/jquery/),
-  [`Modernizr`](https://github.com/Modernizr/Modernizr) or
-  [`Normalize.css`](https://github.com/necolas/normalize.css) (open them in
-  their respective repositories).
+1940s- Colossu- an electronic digital computer was built to break german codes
 
-## Bug reports
+1940s- Alan Turning use his Bombe Machine to break german Enigma  machine
 
-A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+1960s- MIT J.C.R Licklider popularized the idea of "intergalactic Network"
 
-Guidelines for bug reports:
+1960s- The U.S government separates Military research from the military and create ARPANET or the Advanced Research Projects Agency Network
 
-1. **Use the GitHub issue search** &mdash; check if the issue has already been
-   reported.
+1960s- ARPANET was created as the US Government neededa speedy and efficient way too communicate across the country.
 
-   We have a long history of sometimes _very_ detailed discussion of every line of code
-   in the project. We want discussion, so it might still warrant an issue. It
-   just helps to get the (sometimes extensive) context.
+1960s- ARPANET uses packet switching to allow multiple computers to communicate on a single network
 
-2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
-   latest `master` or development branch in the repository.
+1960s- The first data transfer demonstrating a four-way connected network took place from Stanford University, the University of California at Santa Barbara, UCLA, and the University of Utah.
 
-3. **Isolate the problem** &mdash; ideally create a [reduced test
-   case](https://css-tricks.com/reduced-test-cases/) and a live example.
+1970s- Transmission Control Protocol and Internet Protocol (TCP/IP) was created to set a standard for how data could be transmitted between multiple networks.
 
-A good bug report shouldn't leave others needing to chase you up for more
-information. Please try to be as detailed as possible in your report. What is
-your environment? What steps will reproduce the issue? What browser(s) and OS
-experience the problem? What would you expect to be the outcome? All these
-details will help people to fix any potential bugs.
+1970s- Email is invented by Ray Tomlinson 
 
-Example:
+1980s- Various researchers in many universities continue to research computer connections, and the technology become more known to the public
 
-> Short and descriptive example bug report title
->
-> A summary of the issue and the browser/OS environment in which it occurs. If
-> suitable, include the steps required to reproduce the bug.
->
-> 1. This is the first step
-> 2. This is the second step
-> 3. Further steps, etc.
->
-> `<url>` - a link to the reduced test case
->
-> Any other information you want to share that is relevant to the issue being
-> reported. This might include the lines of code that you have identified as
-> causing the bug, and potential solutions (and your opinions on their
-> merits).
+1980s- ARPANET begin the assembly of networks which lead to the modern day internet
 
+1990- Tim Berners-Lee invents the world WIde Web, allowing people to access websites and hyperlinks
 
-## Feature requests
+1990s- Netscape develops the first graphical browser that ran on popular computers
 
-Feature requests are welcome. But take a moment to find out whether your idea
-fits with the scope and aims of the project. It's up to *you* to make a strong
-case to convince the project's developers of the merits of this feature. Please
-provide as much detail and context as possible.
+1990s- Internet begins to be sold to the public
 
+1990s- The first iteration of the Internet available for commercial use was dial-up. It needed phone lines so phones could not be used while on thr internet
 
+1990s- The first internets were very slow and expensive
+
+2000s- Mobile phones become much more popular
+
+2000s- Apple introduces the first "smart" phone with a touch screen and better internet connectivity
+
+2000s- Many tech companies were overvalued based on the promise of more users. Stocks of tech companies crashed and many companies went out of business
+
+2000s- Broadband starts to replace dial up. Broadband were much faster and did not need to be plugged in to work
+
+2010s- Fibre optic broadband becomes available with even higher speeds.
+
+2010s- Internet of Things, refers to everyday items connecting to the internet.
