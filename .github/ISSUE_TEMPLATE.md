@@ -3,7 +3,7 @@
 
 -1900s- Nikola Tesla proposes an idea of a "world wireless system"
 
-1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
+1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchable storage systems of books and media.
 
 1940s- Colossu- an electronic digital computer was built to break german codes
 
@@ -13,7 +13,7 @@
 
 1960s- The U.S government separates Military research from the military and create ARPANET or the Advanced Research Projects Agency Network
 
-1960s- ARPANET was created as the US Government neededa speedy and efficient way too communicate across the country.
+1960s- ARPANET was created as the US Government needed speedy and efficient way too communicate across the country.
 
 1960s- ARPANET uses packet switching to allow multiple computers to communicate on a single network
 
