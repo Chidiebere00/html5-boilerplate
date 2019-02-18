@@ -4,3 +4,9 @@ editors and IDEs. The EditorConfig project consists of a file format for definin
 editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily 
 readable and they work nicely with version control systems.
 
+**.eslintrc.js:**
+ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making 
+code more consistent and avoiding bugs. 
+
+
+
