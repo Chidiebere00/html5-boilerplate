@@ -13,4 +13,5 @@ A gitattributes file is a simple text file that gives attributes to pathnames. I
 the purpose of the file is to 'automatically normalize line endings for all text-based files'.
 
 **.gitignore:**
+A gitignore file specifies intentionally untracked files that Git should ignore.
 
