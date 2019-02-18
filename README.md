@@ -32,4 +32,5 @@ tasks like: Spinning up a web server; reloading the browser automatically whenev
 like CSS, JavaScript, and images. Babel is a transpiler for JavaScript that has the ability to turn ES6 or ES7 into 
 code that can run on your browsers and devices.
 
-
+**LICENSE.txt:**                      
+Text file which converys the terms under which the repository is distributed.
