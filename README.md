@@ -17,3 +17,10 @@ A gitignore file specifies intentionally untracked files that Git should ignore.
 
 **jscsrc:**
 JlCSC inter in which WebStorm lets you verify your JavaScript code.
+
+**.travis.yml:**
+this file makes use of continuous Integration, which is the practice of merging in small code changes frequently -
+rather than merging in a large change at the end of a development cycle. The goal is to build healthier software by
+developing and testing in smaller increments. This is where Travis CI comes in.
+
+
