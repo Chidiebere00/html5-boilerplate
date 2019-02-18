@@ -34,3 +34,7 @@ code that can run on your browsers and devices.
 
 **LICENSE.txt:**                      
 Text file which converys the terms under which the repository is distributed.
+
+**modernizr-config.json:**
+Modernizr is a useful JavaScript library to detect user browser capabilities on websites. Command Line Config helps to
+automate the process, backed up by a Modernizr NPM module. 
