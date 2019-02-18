@@ -15,3 +15,5 @@ the purpose of the file is to 'automatically normalize line endings for all text
 **.gitignore:**
 A gitignore file specifies intentionally untracked files that Git should ignore.
 
+**jscsrc:**
+JlCSC inter in which WebStorm lets you verify your JavaScript code.
