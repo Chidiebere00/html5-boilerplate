@@ -63,7 +63,7 @@ in regards to the project.
 
 1980s- ARPANET begin the assembly of networks which lead to the modern day internet
 
-1990- Tim Berners-Lee invents the WOrld WIde Web, allowing people to access websites and hyperlinks
+1990- Tim Berners-Lee invents the World WIde Web, allowing people to access websites and hyperlinks
 
 1990s- Netscape develops the first graphical browser that ran on popular computers
 
