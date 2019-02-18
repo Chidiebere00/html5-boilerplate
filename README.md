@@ -8,5 +8,9 @@ readable and they work nicely with version control systems.
 ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making 
 code more consistent and avoiding bugs. 
 
+**.gitattributes:**
+A gitattributes file is a simple text file that gives attributes to pathnames. In this particular repository,
+the purpose of the file is to 'automatically normalize line endings for all text-based files'.
 
+**.gitignore:**
 
