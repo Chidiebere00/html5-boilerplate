@@ -38,3 +38,10 @@ Text file which converys the terms under which the repository is distributed.
 **modernizr-config.json:**
 Modernizr is a useful JavaScript library to detect user browser capabilities on websites. Command Line Config helps to
 automate the process, backed up by a Modernizr NPM module. 
+
+**package.json:**
+This file can contain a lot of meta-data about the project. But mostly it will be used for two things:
+Managing dependencies of the projectScripts ; Scripts, that helps in generating builds, running tests and other stuff
+in regards to the project.
+
+  
