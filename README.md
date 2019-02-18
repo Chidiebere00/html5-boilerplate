@@ -26,6 +26,10 @@ developing and testing in smaller increments. This is where Travis CI comes in.
 **CHANGELOG.MD:**
 All notable changes to this project are documented in this file,such as bug fixes, new features, etc.
 
+**gulpfile.babel.js:**
+Gulp is a tool that helps you out with several tasks when it comes to web development. It's often used to do front end 
+tasks like: Spinning up a web server; reloading the browser automatically whenever a file is saved; Optimizing assets 
+like CSS, JavaScript, and images. Babel is a transpiler for JavaScript that has the ability to turn ES6 or ES7 into 
+code that can run on your browsers and devices.
 
-                                                                
 
